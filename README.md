@@ -1,7 +1,7 @@
 
 # Domainluk
 
-AI Powered Domain Tools
+AI Powered Domain Tools - Domain Availability Checker, Reverse IP Lookup, Bulk Whois, Domain Name Generator
 
 
 ## Features
