@@ -16,7 +16,7 @@ AI Powered Domain Tools
 - DNS Records Lookup
 - Who is Hosting (Web hosting checker)
 - Bulk Whois Checker
-- Bulk Domain Locatino Checker
+- Bulk Domain Location Checker
 - Bulk Web hosting Checker
 - Domain Availability Check
 - 520+ TLDs
