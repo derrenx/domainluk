@@ -1,8 +1,8 @@
-
 # Domainluk
 
 AI Powered Domain Tools - Domain Availability Checker, Reverse IP Lookup, Bulk Whois, Domain Name Generator
 
+![Logo](https://www.domainluk.com/img/logo/logo.png)
 
 ## Features
 
